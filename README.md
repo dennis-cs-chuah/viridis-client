@@ -1,5 +1,5 @@
 # viridis-client
-Repository for distribution of Viridis Windows client only.
+Repository for distribution of Viridis Windows client only. There is no soure code.
 
 Dependencies
 ------------
