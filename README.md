@@ -15,4 +15,4 @@ Installation
 ------------
 Download alpha 05 from here - https://github.com/dennis-cs-chuah/viridis-client/releases/download/client_21.1.4-alpha05/ViridisClient.21.1.4.zip  
 Unzip the contents of the file into a folder and run Viridis.exe  
-Please read the [Release notes](Release+Notes/v21_1_4-alpha05.md)
+Please read the [Release notes](Release%20Notes/v21_1_4-alpha05.md)
