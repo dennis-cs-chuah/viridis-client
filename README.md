@@ -8,11 +8,11 @@ Note that this is an early alpha release with very limited functionality; defini
 Dependencies
 ------------
 - Viridis™ Client depends on .Net 5 runtime.  
-Download it here - https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-aspnetcore-5.0.6-windows-x64-installer
+If you do not already have it installed on your machine, you will be prompted to install it the first time you run Viridis™.
 - Only works on Intel 64-bit Windows 10 
 
 Installation
 ------------
-Download alpha 05 from here - https://github.com/dennis-cs-chuah/viridis-client/releases/download/client_21.1.4-alpha05/ViridisClient.21.1.4.zip  
+Download alpha 05 from here - https://github.com/dennis-cs-chuah/viridis-client/releases/download/client_21.1.6-alpha07/ViridisClient.21.1.6.zip
 Unzip the contents of the file into a folder and run Viridis.exe  
-Please read the [Release notes](Release%20Notes/v21_1_4-alpha05.md)
+Please read the [Release notes](Release%20Notes/v21_1_6-alpha07.md)
