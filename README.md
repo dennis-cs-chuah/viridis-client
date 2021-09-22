@@ -13,6 +13,6 @@ If you do not already have it installed on your machine, you will be prompted to
 
 Installation
 ------------
-Download alpha 05 from here - https://github.com/dennis-cs-chuah/viridis-client/releases/download/client_21.1.6-alpha07/ViridisClient.21.1.6.zip
+Download alpha 07 from here - https://github.com/dennis-cs-chuah/viridis-client/releases/download/client_21.1.6-alpha07/ViridisClient.21.1.6.zip
 Unzip the contents of the file into a folder and run Viridis.exe  
 Please read the [Release notes](Release%20Notes/v21_1_6-alpha07.md)
