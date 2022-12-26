@@ -7,7 +7,7 @@ Note that this is an early alpha release with very limited functionality; defini
 
 Dependencies
 ------------
-- Viridis™ Client depends on .Net 5 runtime.  
+- Viridis™ Client depends on .Net 6 runtime.  
 If you do not already have it installed on your machine, you will be prompted to install it the first time you run Viridis™.
 - Viridis™ Client also depends on the Edge runtime.  
 If you do not already have it installed on your machine, you will be prompted to install it the first time you open a link to a map or external information.
