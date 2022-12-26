@@ -15,6 +15,6 @@ If you do not already have it installed on your machine, you will be prompted to
 
 Installation
 ------------
-Download alpha 15 from here - https://github.com/dennis-cs-chuah/viridis-client/releases/download/client_22.1.5_alpha15/ViridisClient.22.1.5.zip
+Download alpha 15 from here - https://github.com/dennis-cs-chuah/viridis-client/releases/download/client_22.1.6_alpha16/ViridisClient.22.1.6.zip
 Unzip the contents of the file into a folder and run Viridis.exe  
-Please read the [Release notes](Release%20Notes/v22_1_5-alpha15.md)
+Please read the [Release notes](Release%20Notes/v22_1_6-alpha16.md)
